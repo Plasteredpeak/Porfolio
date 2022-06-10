@@ -8,22 +8,19 @@
 	},
 	"Education": [
 		{
-			"Matriculation": {
+			"title":"Matriculation",
 				"Institute": "Allied School (2016-2017)",
 				"Marks": "966/1100"
-			}
 		},
 		{
-			"Intermediate": {
+			"title":"Intermediate",
 				"Institute": "Punjab College(2017-2019)",
 				"Marks": "814/1100"
-			}
 		},
 		{
-			"Bachelor": {
+			"title":"Bachelor",
 				"Institute": "COMSATS University Islamabad",
 				"Marks": "3.45"
-			}
 		}
 	],
 	"Work": {
