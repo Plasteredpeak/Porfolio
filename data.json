@@ -6,7 +6,7 @@
       "ProfilePic":"https://i.pinimg.com/564x/30/9a/12/309a1203430fc43151336aace47e5139.jpg",
       "reddit":"https://www.reddit.com/user/Plastered_peak"
    },
-   "Education":{
+   "Education":
       [
          "Matriculation":{
             "Institute":"Allied School (2016-2017)",
@@ -24,8 +24,7 @@
             "Institute":"COMSATS University Islamabad",
             "Marks":"3.45",
          }
-      ]
-   },
+      ],
    "Work Experience":{
       "institute":"Werrick Pharma",
       "Duration":"2 months"
