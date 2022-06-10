@@ -1,46 +1,46 @@
 {
-   "About":{
-      "fullname":"Ali Hamza",
-      "Email":"hamza120025@gmail.com",
-      "webiste":"https://www.vlr.gg/events",
-      "ProfilePic":"https://i.pinimg.com/564x/30/9a/12/309a1203430fc43151336aace47e5139.jpg",
-      "reddit":"https://www.reddit.com/user/Plastered_peak"
-   },
-   "Education":
-      [
-         "Matriculation":{
-            "Institute":"Allied School (2016-2017)",
-            "Marks":"966/1100"
-         },
-         "Intermediate":{
-            "Institute":"Punjab College(2017-2019)",
-            "Marks":"814/1100"
-         },
-         "Intermediate":{
-            "Institute":" 	Punjab College(2017-2019)",
-            "Marks":"814/1100"
-         },
-         "Bachelor":{
-            "Institute":"COMSATS University Islamabad",
-            "Marks":"3.45",
-         }
-      ],
-   "Work Experience":{
-      "institute":"Werrick Pharma",
-      "Duration":"2 months"
-   },
-   "Skills":[
-      "HTML",
-      "CSS",
-      "REACT-NATIVE",
-      "FIREBASE",
-      "PYTHON",
-      "MACHINE LEARNING",
-      "DEEP LEARNING",
-      "MERN"
-   ],
-   "Contact":{
-      "Email":"hamza120025@gmail.com",
-      "Phone":"03328107224"
-   }
+	"About": {
+		"fullname": "Ali Hamza",
+		"Email": "hamza120025@gmail.com",
+		"webiste": "https://www.vlr.gg/events",
+		"ProfilePic": "https://i.pinimg.com/564x/30/9a/12/309a1203430fc43151336aace47e5139.jpg",
+		"reddit": "https://www.reddit.com/user/Plastered_peak"
+	},
+	"Education": [{
+			"Matriculation": {
+				"Institute": "Allied School (2016-2017)",
+				"Marks": "966/1100"
+			}
+		},
+		{
+			"Intermediate": {
+				"Institute": "Punjab College(2017-2019)",
+				"Marks": "814/1100"
+			}
+		},
+		{
+			"Bachelor": {
+				"Institute": "COMSATS University Islamabad",
+				"Marks": "3.45"
+			}
+		}
+	],
+	"Work Experience": {
+		"institute": "Werrick Pharma",
+		"Duration": "2 months"
+	},
+	"Skills": [
+		"HTML",
+		"CSS",
+		"REACT-NATIVE",
+		"FIREBASE",
+		"PYTHON",
+		"MACHINE LEARNING",
+		"DEEP LEARNING",
+		"MERN"
+	],
+	"Contact": {
+		"Email": "hamza120025@gmail.com",
+		"Phone": "03328107224"
+	}
 }
